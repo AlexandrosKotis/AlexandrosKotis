@@ -1,16 +1,15 @@
-## Hi there 👋
+  ## Hi 👋, I'm Alexandros Kotis
 
-<!--
-**AlexandrosKotis/AlexandrosKotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A passionate fullstack developer from Italy**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Portale Appunti](https://github.com/AngeloRipamonti/5C_RipamontiAvvedutoKotisCinquetti_PortaleAppunti.git)
+- 🌱 I’m currently learning **React**
+- 👩🏻‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AlexandrosKotis?tab=repositories)
+- 💬 Ask me about **Java** and **SQL**
+- 📫 How to reach me kotisalexandros@itis-molinari.eu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+
+Java, Bootstrap, C, C++, Express, nodeJS, JS, HTML, CSS, Git, Linux, MySQL, PHP, Bulma, Tailwind
+
+
